@@ -68,7 +68,7 @@ begin
      writeln('Invalit input, press enter to try again.');
      readln;
     end;
-
+ 
    promptEnding;
   end;
  logStr:= 'Ending the program.';
