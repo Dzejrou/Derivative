@@ -65,7 +65,7 @@ begin
      end
    else
     begin
-     writeln('Invalit input, press enter to try again.');
+     writeln('Invalid input, press enter to try again.');
      readln;
     end;
  
