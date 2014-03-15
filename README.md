@@ -1,8 +1,8 @@
-|24.2.2014
-|Jaroslav Jindrak
-|('Dzejrou')
-|Group 40 of IPSS
-|at MFF UK in Prague
+24.2.2014
+Jaroslav Jindrak
+('Dzejrou')
+Group 40 of IPSS
+at MFF UK in Prague
 
 
         |---------------------------------------------------------|
