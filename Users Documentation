@@ -1,0 +1,40 @@
+Welcome to the user's documentation for the program derivative.
+This application will find the derivative form of your function.
+
+Menu:
+    1) This option will let you input your function and displays it's derivative form.
+    2) Displays simplified version of this document for use from within the program.
+    3) Let's you displays or erase the log.
+    4) Displays general information about the program.
+    5) Shows some example functions to demonstrate some kinds of the input
+       from within the program.
+       
+Input:
+    Use raw function body as your input, for example:
+        'sin(x)'        will be processed
+        'y = sin(x)'    won't be processed
+        'f(x) = sin(x)' won't be processed
+        
+    The program can calculate derivative of functions consisting of some basic elementary
+    functions:
+         > sine            = sin(x)       > exponential      = exp(x)
+         > cosine          = cos(x)       > nat. logarithm   = ln(x)
+         > tangent         = tan(x)       > power            = a^b or pow(a,b) where a,b are numbers, functions or constants
+         > cotangent       = cot(x)
+         > secant          = sec(x)
+         > cosecant        = csc(x)
+         > arcsine         = arcsin(x)    (inverse function to: sine
+         > arccosine       = arcarccos(x)                       cosine
+         > arctangent      = arctan(x)                          tanget
+         > arccotangent    = arccot(x)                          cotangent)
+         > hyperbolic sine = sinh(x)
+         > hyp. cosine     = cosh(x)
+         > hyp. tangent    = tanh(x)
+         > hyp. cotangent  = coth(x)
+         > hyp. secant     = sech(x)
+         > hyp. cosecant   = csc(x)  
+    
+    If you want to make a composed function, simply use function1(function2(x)) (more levels of composition are allowed).
+    Operations in your functions supported are addition (+), substraction (-), multiplication (*), division (/)
+    and composition (as noted above).
+    Note: The program deletes any spaces you enter, so 'cos( x ) + sin ( x )' = 'cos(x)+sin(x)'.
