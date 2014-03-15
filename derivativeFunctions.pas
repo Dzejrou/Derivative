@@ -31,7 +31,7 @@ implementation
    unaryDerivative:= '0';
    exit;
   end;
-  
+   
   case temp of
    'cos' : tempDer:= '-sin(' + arg1 + ')';
    'sin' : tempDer:= 'cos(' + arg1 + ')';
