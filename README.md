@@ -56,7 +56,7 @@
                 
                 
                 [log.pas]
-                > createLog                    =      assings the log file to the variable f
+                > createLog                    =      assigns the log file to the variable f
                 > addRecord                    =      appends (opens and sets position to the end) the log file and writes in the
                                                       string passed as parameter
                 > eraseLog                     =      erases entire content of the log file
